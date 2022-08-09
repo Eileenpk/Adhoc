@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screen shot of full screen webpage](https://github.com/Eileenpk/Adhoc/blob/main/images/Screenshot-full-website.png)
-![screen shot of mobile webpage](https://github.com/Eileenpk/Adhoc/blob/main/images/Screenshot-mobile.png)
+![screen shot of full screen webpage](https://github.com/Eileenpk/Adhoc/blob/main/images/Screenshot-full-website%202022-08-09%20140747.png)
+![screen shot of mobile webpage](https://github.com/Eileenpk/Adhoc/blob/main/images/Screenshot-moblie%202022-08-09%20140644.png)
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Eileenpk/Adhoc)
